@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest a feature for the server
+about: Suggest a feature for the server. This section is only for serious additions. 
 title: ''
 labels: 'feature request'
 assignees: ''
