@@ -1,13 +1,13 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest a feature for the server
 title: ''
-labels: 'feature requests'
+labels: 'feature request'
 assignees: ''
 
 ---
 
-<!--Before posting, please check if your feature request has alread been posted before. If it has, you may comment on it to further improve the suggestion-->
+<!--**Before posting, please check if your feature request has alread been posted before. If it has, you may comment on it to further improve the suggestion**-->
 
 
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
