@@ -6,17 +6,13 @@ labels: 'feature request'
 assignees: ''
 
 ---
+<!--
+You don't have to remove this text!
+`
+Before posting your feature requests, consider searching for it to make sure someone hasn't posted the same thing.
+`
+When requesting, make sure you are being very clear on what you want to be added.
+`
+If your suggestion has already been added, you are more than welcome to add it again in the duscssions area.
 
-<!--**Before posting, please check if your feature request has alread been posted before. If it has, you may comment on it to further improve the suggestion**-->
 
-
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
